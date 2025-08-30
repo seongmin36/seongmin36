@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&text=SEONGMIN's%20GITHUB&fontSize=50&animation=twinkling&fontAlignY=36" 
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30&height=200&text=SEONGMIN's%20GITHUB&fontSize=50&fontColor=958AFF&animation=twinkling&fontAlignY=46&stroke=4B3FA0&strokeWidth=2"
     width="100%" 
   />
 </p>
@@ -14,17 +14,17 @@
 
 ## Info
 
-|    Carrer       |                                   Details                                   |                                                      Href                                                         |
-| :-------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | 
-|     `UNIV`      |     Seokyeong University, Computer Engineering Major (3rd year)             |                                           https://www.skuniv.ac.kr/main                                           | 
-|    `DEv CLUB`   |     UMC Web 8th Challenger                                                  |                                               https://umc.makeus.in/                                              |
+|    Period       |    Carrer   |                                   Details                                   |                                                      Link                                                         |
+| :-------------: | :---------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | 
+| 2021.03.02 ~    |    `UNIV`   |     Seokyeong University, Computer Engineering Major (3rd year)             |                                           https://www.skuniv.ac.kr/main                                           | 
+| 2025.03.14 ~ 2025.08.23 | `CLUB` |     UMC Web Develop 8th Challenger                                       |                                               https://umc.makeus.in/                                              |
 
 ## Project
 
-|           Name           |                                   Detail                                      |                                                          Repo                                               |
-| :----------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | 
-|         `CHICCHIC`       |                             Detail                                            |                              https://github.com/UMC-CHICCHIC/FE.git                                         |
-|`Portable LP with Arduino`|                             Detail                                            |                            https://github.com/seongmin36/Arduino.git                                        |
+|         Period          |            Name           |                              Detail                                  |                                           Repo                                                      |
+| :---------------------: | :-----------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | 
+| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino`|                             Detail                                   |                            https://github.com/seongmin36/Arduino.git                                |
+| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`        |                             Detail                                   |                              https://github.com/UMC-CHICCHIC/FE.git                                 |
 
 
 <br><br>
@@ -39,7 +39,7 @@
     <td valign="top" width="100%">
       <h1 align="left">🛠 LANGS & TOOLS</h1>
       <div align="center"> 
-        <br>
+        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
