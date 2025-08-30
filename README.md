@@ -11,21 +11,33 @@
 <br>
 
 <h1 align="left">🧑‍💻 About me.</h1>
-<div>
-  
-</div>
+
+## Info
+
+|    Carrer       |                                   Details                                   |                                                      Href                                                         |
+| :-------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | 
+|     `UNIV`      |     Seokyeong University, Computer Engineering Major (3rd year)             |                                           https://www.skuniv.ac.kr/main                                           | 
+|    `DEv CLUB`   |     UMC Web 8th Challenger                                                  |                                               https://umc.makeus.in/                                              |
+
+## Project
+
+|           Name           |                                   Detail                                      |                                                          Repo                                               |
+| :----------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | 
+|         `CHICCHIC`       |                             Detail                                            |                              https://github.com/UMC-CHICCHIC/FE.git                                         |
+|`Portable LP with Arduino`|                             Detail                                            |                            https://github.com/seongmin36/Arduino.git                                        |
+
 
 <br><br>
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h1 align="left">🔥 My Stats.</h1>
+      <h1 align="left">🔥 STATS</h1>
       <img src="https://github-readme-stats.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
     </td>
     <td valign="top" width="100%">
-      <h1 align="left">🛠 LANGS & TOOLS.</h1>
+      <h1 align="left">🛠 LANGS & TOOLS</h1>
       <div align="center"> 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -56,6 +68,9 @@
   </tr>
 </table>
 
+<br><br>
+
+[![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seongmin36&theme=react-dark)](https://github.com/seongmin/github-readme-activity-graph)
 
 <br><br>
 
