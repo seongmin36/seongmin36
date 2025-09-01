@@ -21,11 +21,22 @@
 
 ## Project
 
-|         Period          |            Name           |                              Detail                                  |                                           Repo                                                      |
-| :---------------------: | :-----------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | 
-| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino`|                             Detail                                   |                            https://github.com/seongmin36/Arduino.git                                |
-| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`        |                             Detail                                   |                              https://github.com/UMC-CHICCHIC/FE.git                                 |
+|         Period          |            Name           |                                           Repo                                                      |
+| :---------------------: | :-----------------------: | :-------------------------------------------------------------------------------------------------: | 
+| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino`|                            https://github.com/seongmin36/Arduino.git                                |
+| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`        |                              https://github.com/UMC-CHICCHIC/FE.git                                 |
 
+<details>
+<summary>Project Details</summary>
+
+## `Portable LP with Arduino`
+- 
+
+
+## `CHICCHIC`
+- 
+
+</details>
 
 <br><br>
 
