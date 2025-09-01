@@ -12,19 +12,19 @@
 
 <h1 align="left">🧑‍💻 About me.</h1>
 
-## Info
+> ### Info
 
 |    Period       |    Carrer   |                                   Details                                   |                                                      Link                                                         |
 | :-------------: | :---------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | 
-| 2021.03.02 ~    |    `UNIV`   |     Seokyeong University, Computer Engineering Major (3rd year)             |                                           https://www.skuniv.ac.kr/main                                           | 
-| 2025.03.14 ~ 2025.08.23 | `CLUB` |     UMC Web Develop 8th Challenger                                       |                                               https://umc.makeus.in/                                              |
+| 2021.03.02 ~    |    `UNIV`   |     Seokyeong University, Computer Engineering Major (3rd year)             |                                        [skuniv](https://www.skuniv.ac.kr/main)                                    | 
+| 2025.03.14 ~ 2025.08.23 | `CLUB` |     UMC Web Develop 8th Challenger                                       |                                         [umc.makeus.in](https://umc.makeus.in/)                                   |
 
-## Project
+> ### Project
 
 |         Period          |            Name           |                                           Repo                                                      |
 | :---------------------: | :-----------------------: | :-------------------------------------------------------------------------------------------------: | 
-| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino`|                            https://github.com/seongmin36/Arduino.git                                |
-| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`        |                              https://github.com/UMC-CHICCHIC/FE.git                                 |
+| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino`|                            [Arduino](https://github.com/seongmin36/Arduino.git)                     |
+| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`        |                              [FE](https://github.com/UMC-CHICCHIC/FE.git)                           |
 
 <details>
 <summary>Project Details</summary>
