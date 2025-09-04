@@ -15,16 +15,16 @@
 
 <p align="center">
   <a href="./README.md">
-    영어
+    English
   </a>
   <a href="./docs/README.ko.md">
     한국어
   </a>
   <a href="./docs/README.jp.md">
-    일본어
+    日本語
   </a>
   <a href="./docs/README.zh.md">
-    중국어
+    中國語(简体)
   </a>
 </p>
 
