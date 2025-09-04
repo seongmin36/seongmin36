@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到Seongmin的Github!;我正在努力成为一名开发者;请欣赏我的仓库!&font=Fira%20Code&center=true&width=500&height=50&duration=2000&pause=1000" alt="README Typing SVG">
 
   <br>
-
+  
+<p align="center">
   <a href="./README.md">English</a>
   ·
   <a href="./docs/README.ko.md">한국어</a>
@@ -16,6 +17,7 @@
   <a href="./docs/README.jp.md">日本語</a>
   ·
   <a href="./docs/README.zh.md">繁體中文</a>
+</p>
 </p>
 
 <br>
