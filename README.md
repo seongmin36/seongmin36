@@ -8,19 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin's+Github!;I'm+Studying+for+Developer+;Please+Enjoy+My+Repo!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000" alt="README Typing SVG">
 
   <br>
-
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.ko.md">
-    <img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.jp.md">
-    <img src="https://img.shields.io/badge/言語-日本語-green?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.cn.md">
-    <img src="https://img.shields.io/badge/语言-中文(简体)-orange?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
+  
 </p>
 
 <br>
