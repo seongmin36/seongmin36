@@ -9,7 +9,7 @@
   
   <br>
 
-  <a href="./README.md">
+  <a href="../README.md">
     <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
   </a>
   <a href="./README.ko.md">

@@ -10,7 +10,7 @@
   <br>
   
 <p align="center">
-  <a href="./README.md">English</a>
+  <a href="../README.md">English</a>
   ·
   <a href="./docs/README.ko.md">한국어</a>
   ·
