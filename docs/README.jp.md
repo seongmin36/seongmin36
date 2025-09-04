@@ -5,8 +5,8 @@
   />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin's+Github!;I'm+Studying+for+Developer+;Please+Enjoy+My+Repo!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000" alt="README Typing SVG">
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=ソンミンの+Githubへようこそ!;開発者を目指して勉強中です;私のリポジトリを楽しんでください!&font=Fira%20Code&center=true&width=500&height=50&duration=2000&pause=1000" alt="README Typing SVG">
+  
   <br>
 
   <a href="./README.md">
@@ -25,42 +25,25 @@
 
 <br>
 
-<p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.ko.md">
-    <img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.jp.md">
-    <img src="https://img.shields.io/badge/言語-日本語-green?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.zh.md">
-    <img src="https://img.shields.io/badge/语言-中文(简体)-orange?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-</p>
+<h1 align="left">🧑‍💻 自己紹介</h1>
 
-<br>
+> ### 情報
 
-<h1 align="left">🧑‍💻 About me.</h1>
+|          期間           |    活動    |                       詳細                        |                 リンク                  |
+| :---------------------: | :--------: | :-----------------------------------------------: | :-------------------------------------: |
+|      2021.03.02 ~       |   `大学`   | ソギョン大学、電子コンピュータ工学科 (3 年在学中) | [skuniv](https://www.skuniv.ac.kr/main) |
+| 2025.03.14 ~ 2025.08.23 | `サークル` |      UMC Web Develop 第 8 期 チャレンジャー       | [umc.makeus.in](https://umc.makeus.in/) |
 
-> ### Info
+> ### プロジェクト
 
-|         Period          | Carrer |                           Details                           |                  Link                   |
-| :---------------------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
-|      2021.03.02 ~       | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
-| 2025.03.14 ~ 2025.08.23 | `CLUB` |               UMC Web Develop 8th Challenger                | [umc.makeus.in](https://umc.makeus.in/) |
-
-> ### Project
-
-|         Period          |            Name            |                         Repo                         |
+|          期間           |            名前            |                   リポジトリリンク                   |
 | :---------------------: | :------------------------: | :--------------------------------------------------: |
 | 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [Arduino](https://github.com/seongmin36/Arduino.git) |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |  [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)  |
-| 2025.07.09 ~ 2025.07.11 |          `취찾사`          |                                                      |
+| 2025.07.09 ~ 2025.07.11 |       `HobbySeeker`        |                                                      |
 
 <details>
-<summary>Project Details</summary>
+<summary>プロジェクトの詳細</summary>
 
 ## `Portable LP with Arduino`
 
@@ -70,7 +53,7 @@
 
 -
 
-## `취찾사`
+## `HobbySeeker`
 
 -
 
@@ -81,12 +64,12 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h1 align="left">🔥 STATS</h1>
-      <img src="https://github-readme-stats.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
+      <h1 align="left">🔥 統計</h1>
+      <img src="https://github-readme-stats.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=ja&hide_border=false&order=1" height="200" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seongmin36&locale=ja&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
     </td>
     <td valign="top" width="100%">
-      <h1 align="left">🛠 LANGS & TOOLS</h1>
+      <h1 align="left">🛠 言語 & ツール</h1>
       <div align="center"> 
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -123,7 +106,7 @@
 
 <br><br>
 
-<h1 align=left>🔗 CONTACT.</h1>
+<h1 align=left>🔗 連絡先</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krongSungmin" target="_blank">
@@ -139,5 +122,3 @@
 ![Notion](https://img.shields.io/badge/Notion-whtjdals3625@gmail.com-000000?style=flat&logo=notion&logoColor=white)
 
 </p>
-
-</div>

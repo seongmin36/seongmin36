@@ -25,23 +25,6 @@
 
 <br>
 
-<p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.ko.md">
-    <img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.jp.md">
-    <img src="https://img.shields.io/badge/言語-日本語-green?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.zh.md">
-    <img src="https://img.shields.io/badge/语言-中文(简体)-orange?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
 <h1 align="left">🧑‍💻 About me.</h1>
 
 > ### Info
@@ -57,7 +40,7 @@
 | :---------------------: | :------------------------: | :--------------------------------------------------: |
 | 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [Arduino](https://github.com/seongmin36/Arduino.git) |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |  [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)  |
-| 2025.07.09 ~ 2025.07.11 |          `취찾사`          |                                                      |
+| 2025.07.09 ~ 2025.07.11 |       `HobbySeeker`        |                                                      |
 
 <details>
 <summary>Project Details</summary>
@@ -70,7 +53,7 @@
 
 -
 
-## `취찾사`
+## `HobbySeeker`
 
 -
 
