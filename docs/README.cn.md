@@ -9,18 +9,13 @@
 
   <br>
 
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.ko.md">
-    <img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.jp.md">
-    <img src="https://img.shields.io/badge/言語-日本語-green?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="./README.cn.md">
-    <img src="https://img.shields.io/badge/语言-中文(简体)-orange?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
+  <a href="./README.md">English</a>
+  ·
+  <a href="./docs/README.ko.md">한국어</a>
+  ·
+  <a href="./docs/README.jp.md">日本語</a>
+  ·
+  <a href="./docs/README.zh.md">繁體中文</a>
 </p>
 
 <br>
