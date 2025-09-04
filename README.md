@@ -20,7 +20,7 @@
   ·
   <a href="./docs/README.jp.md">日本語</a>
   ·
-  <a href="./docs/README.zh.md">繁體中文</a>
+  <a href="./docs/README.cn.md">繁體中文</a>
 </p>
 
 <br>
