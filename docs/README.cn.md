@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin's+Github!;I'm+Studying+for+Developer+;Please+Enjoy+My+Repo!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000" alt="README Typing SVG">
 
   <br>
-  
+  <br>
+
 <p align="center">
     <a href="../README.md">English</a>
     ·
