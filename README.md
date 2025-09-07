@@ -38,24 +38,33 @@
 
 |         Period          |            Name            |                         Repo                         |
 | :---------------------: | :------------------------: | :--------------------------------------------------: |
-| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [Arduino](https://github.com/seongmin36/Arduino.git) |
+| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [아두이노 LP판](https://github.com/seongmin36/Arduino.git) |
+| 2025.07.09 ~ 2025.07.11 |          `취찾사`          | [취찾사](https://github.com/seongmin36/HobbySeeker.git) |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |  [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)  |
-| 2025.07.09 ~ 2025.07.11 |          `취찾사`          |                                                      |
 
 <details>
 <summary>Project Details</summary>
-
-## `Portable LP with Arduino`
-
--
-
+  
 ## `CHICCHIC`
 
--
+<img width="776" height="545" alt="스크린샷 2025-09-07 오후 10 37 09" src="https://github.com/user-attachments/assets/2df318c8-f8a1-499c-bf5f-da73a082b143" />
+
+- 
+
 
 ## `취찾사`
 
--
+<img width="1259" height="925" alt="스크린샷 2025-09-07 오후 10 15 31" src="https://github.com/user-attachments/assets/21ac6310-118d-4b16-8084-3a5313d655cd" />
+
+- 
+
+
+## `Portable LP with Arduino`
+
+<img width="313" height="241.5" alt="image" src="https://github.com/user-attachments/assets/1f4d4d95-5124-47e1-8b7e-13bc4ba30b2e" />
+
+- 
+
 
 </details>
 
