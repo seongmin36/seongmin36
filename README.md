@@ -80,21 +80,18 @@
   <tr>
     <td valign="top" width="50%">
       <h1 align="left">🔥 STATS</h1>
-      <img 
-  src="https://github-readme-stats.vercel.app/api?username=seongmin36&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800" 
-  height="200" 
-  alt="stats graph"/> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
+        <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+        <img src="https://github-readme-stats-ten-smoky.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
     </td>
     <td valign="top" width="100%">
       <h1 align="left">🛠 LANGS & TOOLS</h1>
       <div align="center"> 
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+        <img width="50" title="React" alt="React Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/react-logo.svg"/>
+        <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+        <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" alt="tailwindcss logo"  />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
         <br><br><br><br>
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
         <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -114,6 +111,7 @@
         <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
       </div>
+      <br>
     </td>
   </tr>
 </table>
