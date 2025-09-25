@@ -29,10 +29,11 @@
 
 > ### Info
 
-|         Period          | Carrer |                           Details                           |                  Link                   |
-| :---------------------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
-|      2021.03.02 ~       | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
-| 2025.03.14 ~ 2025.08.23 | `CLUB` |               UMC Web Develop 8th Challenger                | [umc.makeus.in](https://umc.makeus.in/) |
+|    Period    | Carrer |                           Details                           |                  Link                   |
+| :----------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
+| 2021.03.02 ~ | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
+| 2025.03.14 ~ | `CLUB` |            UMC Web Develop 8th ~ 9th Challenger             | [umc.makeus.in](https://umc.makeus.in/) |
+
 
 > ### Project
 
