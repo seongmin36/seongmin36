@@ -126,18 +126,19 @@
 <h1 align=left>🔗 CONTACT.</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/krongSungmin" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/krongSungmin" target="_blank" title="LinkedIn - krongsungmin">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-krongsungmin-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-Das3625-5865F2?style=flat&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-whtjdals3625@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-whtjdals3625@gmail.com-000000?style=flat&logo=notion&logoColor=white)
-
+  <a href="https://discordapp.com/users/Das3625" target="_blank" title="Discord - Das3625">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Gmail - whtjdals3625@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Notion - whtjdals3625@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
+  </a>
 </p>
+
 
 </div>
