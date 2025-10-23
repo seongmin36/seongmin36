@@ -32,7 +32,7 @@
 |    Period    | Carrer |                           Details                           |                  Link                   |
 | :----------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
 | 2021.03.02 ~ | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
-| 2025.03.14 ~ | `CLUB` |            UMC Web Develop 8th ~ 9th Challenger             | [umc.makeus.in](https://umc.makeus.in/) |
+| 2025.03.14 ~ | `CLUB` | UMC Web Develop Challenger 8th ~ | [umc.makeus.in](https://umc.makeus.in/) |
 
 
 > ### Project
@@ -98,6 +98,7 @@
         <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
         <br>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -109,8 +110,6 @@
         <br>
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
       </div>
       <br>
     </td>
