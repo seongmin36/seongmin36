@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30&height=200&text=SEONGMIN's%20GITHUB&fontSize=50&fontColor=958AFF&animation=twinkling&fontAlignY=46&stroke=4B3FA0&strokeWidth=2"
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30&height=200&text=SEONGMIN's%20GITHUB&fontSize=50&fontColor=958AFF&fontAlignY=46&stroke=4B3FA0&strokeWidth=2"
     width="100%" 
   />
 </p>
@@ -32,48 +32,47 @@
 |    Period    | Carrer |                           Details                           |                  Link                   |
 | :----------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
 | 2021.03.02 ~ | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
-| 2025.03.14 ~ | `CLUB` | UMC Web Develop Challenger 8th ~ | [umc.makeus.in](https://umc.makeus.in/) |
-
+| 2025.03.14 ~ 2025.08.26 | `CLUB` | UMC 8th Web Developer Challenger | [umc.makeus.in](https://umc.makeus.in/) |
+| 2025.09.02 ~ | `CLUB` | UMC 9th Web Developer Campus Web Debartment Lead ~ | [umc.makeus.in](https://umc.makeus.in/) |
 
 > ### Project
 
-|         Period          |            Name            |                         Repo                         |
-| :---------------------: | :------------------------: | :--------------------------------------------------: |
+|         Period          |            Name            |                            Repo                            |
+| :---------------------: | :------------------------: | :--------------------------------------------------------: |
 | 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [아두이노 LP판](https://github.com/seongmin36/Arduino.git) |
-| 2025.07.09 ~ 2025.07.11 |          `취찾사`          | [취찾사](https://github.com/seongmin36/HobbySeeker.git) |
-| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |  [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)  |
+| 2025.07.09 ~ 2025.07.11 |          `취찾사`          |  [취찾사](https://github.com/seongmin36/HobbySeeker.git)   |
+| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |     [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)     |
+| 2025.09.18 ~ 2025.09.19 |           `두리`           |   [두리](https://github.com/Hackathon-SKU/frontend.git)    |
 
 <br>
 
-## 🚀 Project Details
+## 🚀 Project
+<!-- 칙칙 -->
 <details>
 <summary>CHICCHIC</summary>
-
-<br>
-
 <img width="776" height="545" alt="스크린샷 2025-09-07 오후 10 37 09" src="https://github.com/user-attachments/assets/2df318c8-f8a1-499c-bf5f-da73a082b143" />
-
-- 
-
 </details>
 
+<!-- 취찾사 -->
 <details>
 <summary>취찾사</summary>
-
 <img width="1259" height="925" alt="스크린샷 2025-09-07 오후 10 15 31" src="https://github.com/user-attachments/assets/21ac6310-118d-4b16-8084-3a5313d655cd" />
-
-- 
-
 </details>
 
+<!-- 두리 -->
+<details>
+<summary>두리</summary>
+<img width="511" height="963" alt="스크린샷 2025-11-14 오전 12 38 24" src="https://github.com/user-attachments/assets/b7fbaab0-5cd9-43a9-85e9-c845583a45c0" />
+</details>
+
+<!-- 아두이노 LP -->
 <details>
 <summary>Portable LP with Arduino</summary>
-
 <img width="313" height="241.5" alt="image" src="https://github.com/user-attachments/assets/1f4d4d95-5124-47e1-8b7e-13bc4ba30b2e" />
 
-- 
 
 </details>
+
 
 <br><br>
 
@@ -94,7 +93,8 @@
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" alt="tailwindcss logo"  />
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
         <br><br><br><br>
-        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
         <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
         <br>
