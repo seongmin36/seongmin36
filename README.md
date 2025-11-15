@@ -33,7 +33,7 @@
 | :----------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
 | 2021.03.02 ~ | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
 | 2025.03.14 ~ 2025.08.26 | `CLUB` | UMC 8th Web Developer Challenger | [umc.makeus.in](https://umc.makeus.in/) |
-| 2025.09.02 ~ | `CLUB` | UMC 9th Web Developer Campus Web Debartment Lead ~ | [umc.makeus.in](https://umc.makeus.in/) |
+| 2025.09.02 ~ | `CLUB` | UMC 9th Web Developer Campus Web Department Lead | [umc.makeus.in](https://umc.makeus.in/) |
 
 > ### Project
 
