@@ -32,7 +32,7 @@
 | :----------------: | :------: | :-------------------------------------------------------: | :--------------------------------------: |
 |    2021.03.02 ~    |  `대학`  | 서경대학교 컴퓨터공학과 (3학년 재학 중)                  | [skuniv](https://www.skuniv.ac.kr/main)  |
 | 2025.03.14 ~ 2025.08.26 | `동아리` | UMC 8th Web Developer Challenger                        | [umc.makeus.in](https://umc.makeus.in/)  |
-| 2025.09.02 ~       | `동아리` | UMC 9th Web Developer 캠퍼스 Web 파트 리드               | [umc.makeus.in](https://umc.makeus.in/)  |
+| 2025.09.02 ~       | `동아리` | UMC 9th Web Developer 캠퍼스 Web 파트장               | [umc.makeus.in](https://umc.makeus.in/)  |
 
 <br>
 
