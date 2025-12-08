@@ -39,10 +39,10 @@
 
 |         Period          |            Name            |                            Repo                            |
 | :---------------------: | :------------------------: | :--------------------------------------------------------: |
-| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [아두이노 LP판](https://github.com/seongmin36/Arduino.git) |
-| 2025.07.09 ~ 2025.07.11 |          `취찾사`          |  [취찾사](https://github.com/seongmin36/HobbySeeker.git)   |
+| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [Arduino LP](https://github.com/seongmin36/Arduino.git) |
+| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`          |  [HobbySeeker](https://github.com/seongmin36/HobbySeeker.git)   |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |     [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)     |
-| 2025.09.18 ~ 2025.09.19 |           `두리`           |   [두리](https://github.com/Hackathon-SKU/frontend.git)    |
+| 2025.09.18 ~ 2025.09.19 |           `Duri`           |   [Duri](https://github.com/Hackathon-SKU/frontend.git)    |
 
 <br>
 
@@ -55,13 +55,13 @@
 
 <!-- 취찾사 -->
 <details>
-<summary>취찾사</summary>
+<summary>HobbySeeker</summary>
 <img width="1259" height="925" alt="스크린샷 2025-09-07 오후 10 15 31" src="https://github.com/user-attachments/assets/21ac6310-118d-4b16-8084-3a5313d655cd" />
 </details>
 
 <!-- 두리 -->
 <details>
-<summary>두리</summary>
+<summary>Duri</summary>
 <img width="511" height="963" alt="스크린샷 2025-11-14 오전 12 38 24" src="https://github.com/user-attachments/assets/b7fbaab0-5cd9-43a9-85e9-c845583a45c0" />
 </details>
 
