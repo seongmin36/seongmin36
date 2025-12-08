@@ -35,10 +35,10 @@
 
 |          期間           |            名前            |                        リポジトリリンク                         |
 | :---------------------: | :------------------------: | :-------------------------------------------------------------: |
-| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [アドゥイノ LP盤](https://github.com/seongmin36/Arduino.git)    |
-| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`          | [취찾사](https://github.com/seongmin36/HobbySeeker.git)         |
+| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [Arduino LP盤](https://github.com/seongmin36/Arduino.git)    |
+| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`          | [HobbySeeker](https://github.com/seongmin36/HobbySeeker.git)         |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         | [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)              |
-| 2025.09.18 ~ 2025.09.19 |           `Duri`           | [두리](https://github.com/Hackathon-SKU/frontend.git)           |
+| 2025.09.18 ~ 2025.09.19 |           `Duri`           | [Duri](https://github.com/Hackathon-SKU/frontend.git)           |
 
 <br>
 
