@@ -39,10 +39,11 @@
 
 |         Period          |            Name            |                            Repo                            |
 | :---------------------: | :------------------------: | :--------------------------------------------------------: |
-| 2024.11.20 ~ 2024.12.19 | `Portable LP with Arduino` | [Arduino LP](https://github.com/seongmin36/Arduino.git) |
-| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`          |  [HobbySeeker](https://github.com/seongmin36/HobbySeeker.git)   |
+| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`       |  [HobbySeeker](https://github.com/seongmin36/HobbySeeker.git)   |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |     [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)     |
 | 2025.09.18 ~ 2025.09.19 |           `Duri`           |   [Duri](https://github.com/Hackathon-SKU/frontend.git)    |
+| 2025.09.21 ~ 2025.12.14 |           `Re:Fit`           |   [Re:Fit](https://github.com/refit-lab/refit-lab-fe)    |
+| 2025.12.28 ~ 2026.02.20 |           `Travlocks`           |   [Travlocks](https://github.com/Travlocks/travlocks-web)    |
 
 <br>
 
@@ -65,11 +66,17 @@
 <img width="511" height="963" alt="스크린샷 2025-11-14 오전 12 38 24" src="https://github.com/user-attachments/assets/b7fbaab0-5cd9-43a9-85e9-c845583a45c0" />
 </details>
 
-<!-- 아두이노 LP -->
+<!-- Re:Fit -->
 <details>
-<summary>Portable LP with Arduino</summary>
-<img width="313" height="241.5" alt="image" src="https://github.com/user-attachments/assets/1f4d4d95-5124-47e1-8b7e-13bc4ba30b2e" />
+<summary>Re:Fit</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32efca48-9019-4242-a721-d3387e9fb395" />
+</details>
 
+<!-- Travlocks -->
+<details>
+<summary>Travlocks</summary>
+
+</details>
 
 </details>
 
