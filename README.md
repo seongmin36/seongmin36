@@ -5,7 +5,7 @@
   />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin's+Github!;I'm+Studying+for+Developer+;Please+Enjoy+My+Repo!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin's+Github!;I'm+Studying+for+Developer+;Please+Enjoy+My+Repo!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=3000" alt="README Typing SVG">
 
   <br> 
   
@@ -80,50 +80,47 @@
 
 </details>
 
+<br>
+
+## 🛠 LANGS & TOOLS
+
+<div align="left">
+  <img width="50" title="React" alt="React Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/react-logo.svg"/>
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" />
+  <br><br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Replit-%23667881.svg?&style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+</div>
+
 
 <br><br>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h1 align="left">🔥 STATS</h1>
-        <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-        <img src="https://github-readme-stats-ten-smoky.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
-    </td>
-    <td valign="top" width="100%">
-      <h1 align="left">🛠 LANGS & TOOLS</h1>
-      <div align="center"> 
-        <br><br>
-        <img width="50" title="React" alt="React Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/react-logo.svg"/>
-        <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-        <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" alt="tailwindcss logo"  />
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
-        <br><br><br><br>
-        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-        <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Replit-%23667881.svg?&style=for-the-badge&logo=replit&logoColor=white" />
-        <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-      </div>
-      <br>
-    </td>
-  </tr>
-</table>
+## 🔥 STATS
 
-<br><br>
+<p align="left">
+    <img src="https://github-readme-stats-ten-smoky.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph" />
+</p>
+
+<br>
+
 
 [![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seongmin36&theme=react-dark)](https://github.com/seongmin36/github-readme-activity-graph)
 
