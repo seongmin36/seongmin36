@@ -119,9 +119,6 @@
   <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph" />
 </p>
 
-<br>
-
-
 [![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seongmin36&theme=react-dark)](https://github.com/seongmin36/github-readme-activity-graph)
 
 <br><br>
