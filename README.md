@@ -5,7 +5,7 @@
   />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin%27s+GitHub!;I%27m+studying+to+become+a+developer.;Please+enjoy+my+repos!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=3000" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin%27s+GitHub!;studying+to+become+a+developer.;Please+enjoy+my+repos!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=3000" alt="README Typing SVG">
 
   <br> 
   
