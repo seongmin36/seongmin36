@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="272" viewBox="0 0 480 272">
+  <style>
+    .bg { fill: #ffffff }
+    .dv { stroke: #e5e7eb; stroke-width: 1 }
+    .h  { fill: #374151; font: 600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
+    .t  { fill: #111827; font: 700 13px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
+    .d  { fill: #6b7280; font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
+    .dt { fill: #9ca3af; font: 400 11px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117 }
+      .dv { stroke: #30363d }
+      .h  { fill: #c9d1d9 }
+      .t  { fill: #f0f6fc }
+      .d  { fill: #8b949e }
+      .dt { fill: #6e7681 }
+    }
+  </style>
+  <rect class="bg" width="480" height="272" rx="8"/>
+  <text class="h" x="20" y="30">📝 최근 블로그 글</text>
+  <line class="dv" x1="20" y1="42" x2="460" y2="42"/>
+  
+  <text class="t" x="20" y="70">› NestJS 스터디 8주차 회고 — 서버 에러를 프론트가 읽을 수 있게</text>
+  <text class="d" x="20" y="88">NestJS 기본 예외 처리부터 커스텀 필터, 응답 인터셉터까지 — 서버 응답을 한 가지 규칙으로 통일한 구…</text>
+  <text class="dt" x="20" y="104">2026.05.17</text>
+  <text class="t" x="20" y="138">› NestJS 스터디 7주차 회고 — localStorage에서 HttpOnly 쿠키로</text>
+  <text class="d" x="20" y="156">프론트엔드 연동 과정에서 발견한 로그인 보안 설계의 허점과, HttpOnly 쿠키 기반으로 전환하면서 Sec…</text>
+  <text class="dt" x="20" y="172">2026.05.10</text>
+  <text class="t" x="20" y="206">› NestJS 스터디 6주차 회고 — TodoList를 만들며 부딪힌 설계의 벽</text>
+  <text class="d" x="20" y="224">TodoList 서버를 구현하며 부딪힌 DTO 분리·Update API 분리 고민과, 명세 우선 워크플로우로…</text>
+  <text class="dt" x="20" y="240">2026.05.02</text>
+</svg>
