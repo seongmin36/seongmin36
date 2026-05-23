@@ -25,11 +25,11 @@
 
 <br>
 
-## 📝 Recent Posts
+## 📝 RECENT POSTS
 
 [![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
 
-<h1 align="left">🧑‍💻 About me.</h1>
+<h1 align="left">🧑‍💻 ABOUT ME.</h1>
 
 > ### Info
 
@@ -49,41 +49,6 @@
 | 2025.09.18 ~ 2025.09.19 |           `Duri`           |   [Duri](https://github.com/Hackathon-SKU/frontend.git)    |
 | 2025.09.21 ~ 2025.12.14 |           `Re:Fit`           |   [Re:Fit](https://github.com/refit-lab/refit-lab-fe)    |
 | 2025.12.28 ~ 2026.02.20 |           `Travlocks`           |   [Travlocks](https://github.com/Travlocks/travlocks-web)    |
-
-<br>
-
-## 🚀 Projects
-<!-- 칙칙 -->
-<details>
-<summary>CHICCHIC</summary>
-<img width="776" height="545" alt="스크린샷 2025-09-07 오후 10 37 09" src="https://github.com/user-attachments/assets/2df318c8-f8a1-499c-bf5f-da73a082b143" />
-</details>
-
-<!-- 취찾사 -->
-<details>
-<summary>HobbySeeker</summary>
-<img width="1259" height="925" alt="스크린샷 2025-09-07 오후 10 15 31" src="https://github.com/user-attachments/assets/21ac6310-118d-4b16-8084-3a5313d655cd" />
-</details>
-
-<!-- 두리 -->
-<details>
-<summary>Duri</summary>
-<img width="511" height="963" alt="스크린샷 2025-11-14 오전 12 38 24" src="https://github.com/user-attachments/assets/b7fbaab0-5cd9-43a9-85e9-c845583a45c0" />
-</details>
-
-<!-- Re:Fit -->
-<details>
-<summary>Re:Fit</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32efca48-9019-4242-a721-d3387e9fb395" />
-</details>
-
-<!-- Travlocks -->
-<details>
-<summary>Travlocks</summary>
-
-</details>
-
-</details>
 
 <br>
 
@@ -111,8 +76,6 @@
   <br/>
   <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph" />
 </p>
-
-[![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seongmin36&theme=react-dark)](https://github.com/seongmin36/github-readme-activity-graph)
 
 <br><br>
 
