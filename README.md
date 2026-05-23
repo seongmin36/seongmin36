@@ -112,6 +112,10 @@
 
 <br><br>
 
+## 📝 최근 블로그 글
+
+[![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
+
 <h1 align=left>🔗 CONTACT.</h1>
 
 <p align="left">
