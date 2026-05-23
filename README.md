@@ -25,7 +25,7 @@
 
 <br>
 
-## 📝 최근 블로그 글
+## 📝 Recent Posts
 
 [![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
 
