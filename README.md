@@ -25,6 +25,10 @@
 
 <br>
 
+## 📝 최근 블로그 글
+
+[![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
+
 <h1 align="left">🧑‍💻 About me.</h1>
 
 > ### Info
@@ -111,10 +115,6 @@
 [![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seongmin36&theme=react-dark)](https://github.com/seongmin36/github-readme-activity-graph)
 
 <br><br>
-
-## 📝 최근 블로그 글
-
-[![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
 
 <h1 align=left>🔗 CONTACT.</h1>
 
