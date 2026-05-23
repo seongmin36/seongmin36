@@ -1,31 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="272" viewBox="0 0 480 272">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244">
   <style>
+    /* ── light ── */
     .bg { fill: #ffffff }
-    .dv { stroke: #e5e7eb; stroke-width: 1 }
-    .h  { fill: #374151; font: 600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
-    .t  { fill: #111827; font: 700 13px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
-    .d  { fill: #6b7280; font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
-    .dt { fill: #9ca3af; font: 400 11px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
+    .sp { fill: #3B7A57 }
+    .ki { fill: #3B7A57 }
+    .kt { fill: #ffffff; font: 700 8px system-ui,sans-serif }
+    .hb { fill: #111827; font: 700 11px system-ui,sans-serif; letter-spacing: -0.3px }
+    .hl { fill: #9ca3af; font: 500 9px 'SFMono-Regular',Consolas,monospace; letter-spacing: 1.5px }
+    .dv { stroke: #f3f4f6; stroke-width: 1 }
+    .t  { fill: #111827; font: 600 13px system-ui,sans-serif }
+    .d  { fill: #b0b0b0; font: 400 11px system-ui,sans-serif }
+    .dt { fill: #3B7A57; font: 600 10px 'SFMono-Regular',Consolas,monospace }
+    /* ── dark ── */
     @media (prefers-color-scheme: dark) {
       .bg { fill: #0d1117 }
-      .dv { stroke: #30363d }
-      .h  { fill: #c9d1d9 }
+      .sp { fill: #F0A8B8 }
+      .hb { fill: #8b949e }
+      .hl { fill: #6e7681 }
+      .dv { stroke: #1c2128 }
       .t  { fill: #f0f6fc }
-      .d  { fill: #8b949e }
-      .dt { fill: #6e7681 }
+      .d  { fill: #6e7681 }
+      .dt { fill: #F0A8B8 }
     }
   </style>
-  <rect class="bg" width="480" height="272" rx="8"/>
-  <text class="h" x="20" y="30">📝 최근 블로그 글</text>
-  <line class="dv" x1="20" y1="42" x2="460" y2="42"/>
+
+  <!-- background -->
+  <rect class="bg" width="480" height="244" rx="6"/>
+
+  <!-- accent top stripe (green → pink in dark) -->
+  <rect class="sp" width="480" height="3" rx="3"/>
+
+  <!-- K favicon icon — always green (brand mark) -->
+  <rect class="ki" x="20"     y="13" width="12" height="12" rx="2.5"/>
+  <text class="kt" x="26" y="22" text-anchor="middle">K</text>
+
+  <!-- "Krong Dev." logo -->
+  <text class="hb" x="36" y="22">Krong Dev.</text>
+
+  <!-- "LATEST POSTS" label -->
+  <text class="hl" x="120" y="22">· LATEST POSTS</text>
+
+  <!-- header divider -->
+  <line class="dv" x1="20" y1="36" x2="460" y2="36"/>
+
+  <!-- posts -->
   
-  <text class="t" x="20" y="70">› NestJS 스터디 8주차 회고 — 서버 에러를 프론트가 읽을 수 있게</text>
-  <text class="d" x="20" y="88">NestJS 기본 예외 처리부터 커스텀 필터, 응답 인터셉터까지 — 서버 응답을 한 가지 규칙으로 통일한 구…</text>
-  <text class="dt" x="20" y="104">2026.05.17</text>
-  <text class="t" x="20" y="138">› NestJS 스터디 7주차 회고 — localStorage에서 HttpOnly 쿠키로</text>
-  <text class="d" x="20" y="156">프론트엔드 연동 과정에서 발견한 로그인 보안 설계의 허점과, HttpOnly 쿠키 기반으로 전환하면서 Sec…</text>
-  <text class="dt" x="20" y="172">2026.05.10</text>
-  <text class="t" x="20" y="206">› NestJS 스터디 6주차 회고 — TodoList를 만들며 부딪힌 설계의 벽</text>
-  <text class="d" x="20" y="224">TodoList 서버를 구현하며 부딪힌 DTO 분리·Update API 분리 고민과, 명세 우선 워크플로우로…</text>
-  <text class="dt" x="20" y="240">2026.05.02</text>
+  
+  <text class="t"  x="20"     y="64">NestJS 스터디 8주차 회고 — 서버 에러를 프론트가 읽을 수 있게</text>
+  <text class="d"  x="20"     y="82">NestJS 기본 예외 처리부터 커스텀 필터, 응답 인터셉터까지 — 서버 응답을 한 가지 규칙으로 통일한…</text>
+  <text class="dt" x="460" y="64" text-anchor="end">05.17</text>
+  <line class="dv" x1="20" y1="102" x2="460" y2="102"/>
+  <text class="t"  x="20"     y="124">NestJS 스터디 7주차 회고 — localStorage에서 HttpOnly …</text>
+  <text class="d"  x="20"     y="142">프론트엔드 연동 과정에서 발견한 로그인 보안 설계의 허점과, HttpOnly 쿠키 기반으로 전환하면서 S…</text>
+  <text class="dt" x="460" y="124" text-anchor="end">05.10</text>
+  <line class="dv" x1="20" y1="162" x2="460" y2="162"/>
+  <text class="t"  x="20"     y="184">NestJS 스터디 6주차 회고 — TodoList를 만들며 부딪힌 설계의 벽</text>
+  <text class="d"  x="20"     y="202">TodoList 서버를 구현하며 부딪힌 DTO 분리·Update API 분리 고민과, 명세 우선 워크플로…</text>
+  <text class="dt" x="460" y="184" text-anchor="end">05.02</text>
 </svg>

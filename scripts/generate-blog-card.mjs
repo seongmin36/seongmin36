@@ -1,13 +1,19 @@
 #!/usr/bin/env node
 import { writeFileSync } from 'node:fs';
 
-const RSS_URL = 'https://blog.kronglog.dev/rss.xml';
+const RSS_URL     = 'https://blog.kronglog.dev/rss.xml';
 const OUTPUT_PATH = './recent-posts.svg';
-const MAX_POSTS = 3;
-const DESC_MAX = 60;
+const MAX_POSTS   = 3;
+const TITLE_MAX   = 44;
+const DESC_MAX    = 58;
 
+/* ── helpers ──────────────────────────────────────────────── */
 function xmlEscape(str) {
-  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
 }
 
 function extractTag(tag, xml) {
@@ -20,13 +26,14 @@ function extractTag(tag, xml) {
 function formatDate(dateStr) {
   const d = new Date(dateStr);
   if (isNaN(d.getTime())) return '';
-  return `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`;
+  return `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
 }
 
 function truncate(str, max) {
   return str.length > max ? str.slice(0, max) + '…' : str;
 }
 
+/* ── fetch + parse ────────────────────────────────────────── */
 async function fetchRss() {
   const res = await fetch(RSS_URL);
   if (!res.ok) throw new Error(`RSS fetch failed: ${res.status}`);
@@ -39,55 +46,93 @@ function parseItems(xml) {
     .map((m) => {
       const item = m[1];
       return {
-        title: extractTag('title', item),
+        title:       extractTag('title',       item),
         description: extractTag('description', item),
-        pubDate: extractTag('pubDate', item),
+        pubDate:     extractTag('pubDate',     item),
       };
     });
 }
 
+/* ── SVG builder (C · Minimal) ────────────────────────────── */
 function buildSvg(posts) {
-  const W = 480, PAD = 20, HEADER_H = 52, POST_H = 68, FOOTER_PAD = 16;
-  const H = HEADER_H + posts.length * POST_H + FOOTER_PAD;
+  const W          = 480;
+  const PAD        = 20;
+  const HEADER_H   = 42;   // stripe(3) + icon/logo row + divider
+  const POST_H     = 60;
+  const FOOTER_PAD = 22;
+  const H          = HEADER_H + posts.length * POST_H + FOOTER_PAD;
+
   const rows = posts.map((post, i) => {
-    const y = HEADER_H + i * POST_H;
-    const title = xmlEscape(truncate(post.title, 55));
-    const desc = post.description ? xmlEscape(truncate(post.description, DESC_MAX)) : '';
-    const date = xmlEscape(formatDate(post.pubDate));
+    const y         = HEADER_H + i * POST_H;
+    const title     = xmlEscape(truncate(post.title,       TITLE_MAX));
+    const desc      = post.description
+                        ? xmlEscape(truncate(post.description, DESC_MAX))
+                        : '';
+    const fullDate  = xmlEscape(formatDate(post.pubDate));
+    const shortDate = fullDate.slice(5); // "MM.DD"
+
     return `
-  <text class="t" x="${PAD}" y="${y+18}">› ${title}</text>
-  ${desc ? `<text class="d" x="${PAD}" y="${y+36}">${desc}</text>` : ''}
-  <text class="dt" x="${PAD}" y="${y+52}">${date}</text>`;
+  ${i > 0 ? `<line class="dv" x1="${PAD}" y1="${y}" x2="${W - PAD}" y2="${y}"/>` : ''}
+  <text class="t"  x="${PAD}"     y="${y + 22}">${title}</text>
+  ${desc ? `<text class="d"  x="${PAD}"     y="${y + 40}">${desc}</text>` : ''}
+  <text class="dt" x="${W - PAD}" y="${y + 22}" text-anchor="end">${shortDate}</text>`;
   }).join('');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <style>
+    /* ── light ── */
     .bg { fill: #ffffff }
-    .dv { stroke: #e5e7eb; stroke-width: 1 }
-    .h  { fill: #374151; font: 600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
-    .t  { fill: #111827; font: 700 13px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
-    .d  { fill: #6b7280; font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
-    .dt { fill: #9ca3af; font: 400 11px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif }
+    .sp { fill: #3B7A57 }
+    .ki { fill: #3B7A57 }
+    .kt { fill: #ffffff; font: 700 8px system-ui,sans-serif }
+    .hb { fill: #111827; font: 700 11px system-ui,sans-serif; letter-spacing: -0.3px }
+    .hl { fill: #9ca3af; font: 500 9px 'SFMono-Regular',Consolas,monospace; letter-spacing: 1.5px }
+    .dv { stroke: #f3f4f6; stroke-width: 1 }
+    .t  { fill: #111827; font: 600 13px system-ui,sans-serif }
+    .d  { fill: #b0b0b0; font: 400 11px system-ui,sans-serif }
+    .dt { fill: #3B7A57; font: 600 10px 'SFMono-Regular',Consolas,monospace }
+    /* ── dark ── */
     @media (prefers-color-scheme: dark) {
       .bg { fill: #0d1117 }
-      .dv { stroke: #30363d }
-      .h  { fill: #c9d1d9 }
+      .sp { fill: #F0A8B8 }
+      .hb { fill: #8b949e }
+      .hl { fill: #6e7681 }
+      .dv { stroke: #1c2128 }
       .t  { fill: #f0f6fc }
-      .d  { fill: #8b949e }
-      .dt { fill: #6e7681 }
+      .d  { fill: #6e7681 }
+      .dt { fill: #F0A8B8 }
     }
   </style>
-  <rect class="bg" width="${W}" height="${H}" rx="8"/>
-  <text class="h" x="${PAD}" y="30">📝 최근 블로그 글</text>
-  <line class="dv" x1="${PAD}" y1="42" x2="${W-PAD}" y2="42"/>
+
+  <!-- background -->
+  <rect class="bg" width="${W}" height="${H}" rx="6"/>
+
+  <!-- accent top stripe (green → pink in dark) -->
+  <rect class="sp" width="${W}" height="3" rx="3"/>
+
+  <!-- K favicon icon — always green (brand mark) -->
+  <rect class="ki" x="${PAD}"     y="13" width="12" height="12" rx="2.5"/>
+  <text class="kt" x="${PAD + 6}" y="22" text-anchor="middle">K</text>
+
+  <!-- "Krong Dev." logo -->
+  <text class="hb" x="${PAD + 16}" y="22">Krong Dev.</text>
+
+  <!-- "LATEST POSTS" label -->
+  <text class="hl" x="${PAD + 100}" y="22">· LATEST POSTS</text>
+
+  <!-- header divider -->
+  <line class="dv" x1="${PAD}" y1="36" x2="${W - PAD}" y2="36"/>
+
+  <!-- posts -->
   ${rows}
 </svg>`;
 }
 
+/* ── main ─────────────────────────────────────────────────── */
 async function main() {
-  const xml = await fetchRss();
+  const xml   = await fetchRss();
   const posts = parseItems(xml);
-  const svg = buildSvg(posts);
+  const svg   = buildSvg(posts);
   writeFileSync(OUTPUT_PATH, svg, 'utf-8');
   console.log(`Generated ${OUTPUT_PATH} with ${posts.length} posts`);
 }
