@@ -46,15 +46,15 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">NestJS 스터디 8주차 회고 — 서버 에러를 프론트가 읽을 수 있게</text>
-  <text class="d"  x="20"     y="82">NestJS 기본 예외 처리부터 커스텀 필터, 응답 인터셉터까지 — 서버 응답을 한 가지 규칙으로 통일한…</text>
-  <text class="dt" x="460" y="64" text-anchor="end">05.17</text>
+  <text class="t"  x="20"     y="64">NestJS 스터디 9주차 회고 — 로그는 사람도 읽고, 시스템도 읽는다</text>
+  <text class="d"  x="20"     y="82">NestJS Built-in Logger의 운영 환경 한계를 직시하고, Pino로 전환하는 과정을 정리했…</text>
+  <text class="dt" x="460" y="64" text-anchor="end">05.24</text>
   <line class="dv" x1="20" y1="102" x2="460" y2="102"/>
-  <text class="t"  x="20"     y="124">NestJS 스터디 7주차 회고 — localStorage에서 HttpOnly …</text>
-  <text class="d"  x="20"     y="142">프론트엔드 연동 과정에서 발견한 로그인 보안 설계의 허점과, HttpOnly 쿠키 기반으로 전환하면서 S…</text>
-  <text class="dt" x="460" y="124" text-anchor="end">05.10</text>
+  <text class="t"  x="20"     y="124">NestJS 스터디 8주차 회고 — 서버 에러를 프론트가 읽을 수 있게</text>
+  <text class="d"  x="20"     y="142">NestJS 기본 예외 처리부터 커스텀 필터, 응답 인터셉터까지 — 서버 응답을 한 가지 규칙으로 통일한…</text>
+  <text class="dt" x="460" y="124" text-anchor="end">05.17</text>
   <line class="dv" x1="20" y1="162" x2="460" y2="162"/>
-  <text class="t"  x="20"     y="184">NestJS 스터디 6주차 회고 — TodoList를 만들며 부딪힌 설계의 벽</text>
-  <text class="d"  x="20"     y="202">TodoList 서버를 구현하며 부딪힌 DTO 분리·Update API 분리 고민과, 명세 우선 워크플로…</text>
-  <text class="dt" x="460" y="184" text-anchor="end">05.02</text>
+  <text class="t"  x="20"     y="184">NestJS 스터디 7주차 회고 — localStorage에서 HttpOnly …</text>
+  <text class="d"  x="20"     y="202">프론트엔드 연동 과정에서 발견한 로그인 보안 설계의 허점과, HttpOnly 쿠키 기반으로 전환하면서 S…</text>
+  <text class="dt" x="460" y="184" text-anchor="end">05.10</text>
 </svg>
