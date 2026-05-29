@@ -16,11 +16,20 @@ function xmlEscape(str) {
     .replace(/"/g, '&quot;');
 }
 
+function xmlDecode(str) {
+  return str
+    .replace(/&apos;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g,   '<')
+    .replace(/&gt;/g,   '>')
+    .replace(/&amp;/g,  '&');
+}
+
 function extractTag(tag, xml) {
   const cdata = new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>`, 'i').exec(xml);
-  if (cdata) return cdata[1].trim();
+  if (cdata) return xmlDecode(cdata[1].trim());
   const plain = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'i').exec(xml);
-  return plain ? plain[1].trim() : '';
+  return plain ? xmlDecode(plain[1].trim()) : '';
 }
 
 function formatDate(dateStr) {

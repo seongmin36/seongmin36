@@ -46,7 +46,7 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">블로그 폰트 최적화 — 11,172자의 무게 &amp;apos;줄이기&amp;apos;</text>
+  <text class="t"  x="20"     y="64">블로그 폰트 최적화 — 11,172자의 무게 '줄이기'</text>
   <text class="d"  x="20"     y="82">Astro 블로그에서 한글 웹 폰트의 깜빡임을 줄이기 위해 FOIT/FOUT의 차이부터 WOFF2 변환,…</text>
   <text class="dt" x="460" y="64" text-anchor="end">05.29</text>
   <line class="dv" x1="20" y1="102" x2="460" y2="102"/>
