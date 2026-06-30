@@ -39,6 +39,7 @@
 | 2025.03.14 ~ 2025.08.26 | `CLUB` | UMC 8th Web Developer Challenger | [umc.makeus.in](https://umc.makeus.in/) |
 | 2025.09.02 ~ 2025.02.20 | `CLUB` | UMC 9th Web Developer Campus Web Department Lead | [umc.makeus.in](https://umc.makeus.in/) |
 | 2026.03.16 | `CAMP` | kt cloud TECH-UP frontend 2nd | [kt cloud TECH-UP](https://ktcloud-techup.com/frontend/) |
+| 2026.06.29 ~ | `ACADEMY` | OSSCA(Open Source Software Contribution Academy) | [OSSCA](https://www.contribution.ac/) |
 
 > ### Project
 
