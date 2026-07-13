@@ -39,17 +39,15 @@
 | 2025.03.14 ~ 2025.08.26 | `CLUB` | UMC 8th Web Developer Challenger | [umc.makeus.in](https://umc.makeus.in/) |
 | 2025.09.02 ~ 2025.02.20 | `CLUB` | UMC 9th Web Developer Campus Web Department Lead | [umc.makeus.in](https://umc.makeus.in/) |
 | 2026.03.16 | `CAMP` | kt cloud TECH-UP frontend 2nd | [kt cloud TECH-UP](https://ktcloud-techup.com/frontend/) |
-| 2026.06.29 ~ | `ACADEMY` | OSSCA(Open Source Software Contribution Academy) | [OSSCA](https://www.contribution.ac/) |
+| 2026.06.29 ~ | `ACADEMY` | OSSCA(Open Source SW Contribution Academy): Fedify(ActivityPub) | [Fedify](https://github.com/fedify-dev) |
 
 > ### Project
 
 |         Period          |            Name            |                            Repo                            |
 | :---------------------: | :------------------------: | :--------------------------------------------------------: |
-| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`       |  [HobbySeeker](https://github.com/seongmin36/HobbySeeker.git)   |
 | 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |     [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)     |
-| 2025.09.18 ~ 2025.09.19 |           `Duri`           |   [Duri](https://github.com/Hackathon-SKU/frontend.git)    |
-| 2025.09.21 ~ 2025.12.14 |           `Re:Fit`           |   [Re:Fit](https://github.com/refit-lab/refit-lab-fe)    |
-| 2025.12.28 ~ 2026.02.20 |           `Travlocks`           |   [Travlocks](https://github.com/Travlocks/travlocks-web)    |
+| 2025.09.21 ~ 2025.12.14 |          `Re:Fit`          |   [Re:Fit](https://github.com/refit-lab/refit-lab-fe)      |
+| 2025.12.28 ~ 2026.02.20 |         `Travlocks`        |   [Travlocks](https://github.com/Travlocks/travlocks-web)  |
 
 <br>
 
