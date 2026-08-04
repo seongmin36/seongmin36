@@ -46,15 +46,15 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">leetcode 스터디 2주차 회고 - 정렬과 DFS로 문제 풀기</text>
-  <text class="d"  x="20"     y="82">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy l…</text>
-  <text class="dt" x="460" y="64" text-anchor="end">07.13</text>
+  <text class="t"  x="20"     y="64">OSSCA 참여형 지원부터 발대식까지</text>
+  <text class="d"  x="20"     y="82">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지…</text>
+  <text class="dt" x="460" y="64" text-anchor="end">08.05</text>
   <line class="dv" x1="20" y1="102" x2="460" y2="102"/>
-  <text class="t"  x="20"     y="124">leetcode 스터디 1주차 회고 - Hash와 DP로 문제 풀기</text>
-  <text class="d"  x="20"     y="142">Contains Duplicate부터 House Robber까지, DaleStudy leetcode 1주…</text>
-  <text class="dt" x="460" y="124" text-anchor="end">07.05</text>
+  <text class="t"  x="20"     y="124">leetcode 스터디 2주차 회고 - 정렬과 DFS로 문제 풀기</text>
+  <text class="d"  x="20"     y="142">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy l…</text>
+  <text class="dt" x="460" y="124" text-anchor="end">07.13</text>
   <line class="dv" x1="20" y1="162" x2="460" y2="162"/>
-  <text class="t"  x="20"     y="184">CI/CD 파이프라인 삽질 11가지</text>
-  <text class="d"  x="20"     y="202">pnpm 모노레포 Docker 빌드, Jest CI, EC2 배포까지 GitHub Actions 파이프라…</text>
-  <text class="dt" x="460" y="184" text-anchor="end">06.09</text>
+  <text class="t"  x="20"     y="184">leetcode 스터디 1주차 회고 - Hash와 DP로 문제 풀기</text>
+  <text class="d"  x="20"     y="202">Contains Duplicate부터 House Robber까지, DaleStudy leetcode 1주…</text>
+  <text class="dt" x="460" y="184" text-anchor="end">07.05</text>
 </svg>
