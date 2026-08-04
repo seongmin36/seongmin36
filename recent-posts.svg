@@ -46,9 +46,9 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">OSSCA 참여형 지원부터 발대식까지</text>
+  <text class="t"  x="20"     y="64">2026 오픈소스 컨트리뷰션 아카데미(OSSCA) 참여 후기 및 발대식</text>
   <text class="d"  x="20"     y="82">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지…</text>
-  <text class="dt" x="460" y="64" text-anchor="end">08.05</text>
+  <text class="dt" x="460" y="64" text-anchor="end">08.03</text>
   <line class="dv" x1="20" y1="102" x2="460" y2="102"/>
   <text class="t"  x="20"     y="124">leetcode 스터디 2주차 회고 - 정렬과 DFS로 문제 풀기</text>
   <text class="d"  x="20"     y="142">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy l…</text>
