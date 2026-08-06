@@ -31,8 +31,6 @@
 
 <h1 align="left">🧑‍💻 ABOUT ME.</h1>
 
-> ### Info
-
 |    Period    | Career |                           Details                           |                  Link                   |
 | :----------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
 | 2021.03.02 ~ | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
@@ -40,14 +38,6 @@
 | 2025.09.02 ~ 2025.02.20 | `CLUB` | UMC 9th Web Developer Campus Web Department Lead | [umc.makeus.in](https://umc.makeus.in/) |
 | 2026.03.16 | `CAMP` | kt cloud TECH-UP frontend 2nd | [kt cloud TECH-UP](https://ktcloud-techup.com/frontend/) |
 | 2026.06.29 ~ | `ACADEMY` | OSSCA(Open Source SW Contribution Academy): Fedify(ActivityPub) | [Fedify](https://github.com/fedify-dev) |
-
-> ### Project
-
-|         Period          |            Name            |                            Repo                            |
-| :---------------------: | :------------------------: | :--------------------------------------------------------: |
-| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |     [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)     |
-| 2025.09.21 ~ 2025.12.14 |          `Re:Fit`          |   [Re:Fit](https://github.com/refit-lab/refit-lab-fe)      |
-| 2025.12.28 ~ 2026.02.20 |         `Travlocks`        |   [Travlocks](https://github.com/Travlocks/travlocks-web)  |
 
 <br>
 
