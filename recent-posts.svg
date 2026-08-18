@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244">
   <style>
     /* ── light ── */
     .bg { fill: #ffffff }
@@ -25,10 +25,10 @@
   </style>
 
   <!-- background -->
-  <rect class="bg" width="480" height="244" rx="6"/>
+  <rect class="bg" width="560" height="244" rx="6"/>
 
   <!-- accent top stripe (green → pink in dark) -->
-  <rect class="sp" width="480" height="3" rx="3"/>
+  <rect class="sp" width="560" height="3" rx="3"/>
 
   <!-- K favicon icon — always green (brand mark) -->
   <rect class="ki" x="20"     y="13" width="12" height="12" rx="2.5"/>
@@ -41,20 +41,20 @@
   <text class="hl" x="120" y="22">· LATEST POSTS</text>
 
   <!-- header divider -->
-  <line class="dv" x1="20" y1="36" x2="460" y2="36"/>
+  <line class="dv" x1="20" y1="36" x2="540" y2="36"/>
 
   <!-- posts -->
   
   
   <text class="t"  x="20"     y="64">2026 오픈소스 컨트리뷰션 아카데미(OSSCA) 참여 후기 및 발대식</text>
-  <text class="d"  x="20"     y="82">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지…</text>
-  <text class="dt" x="460" y="64" text-anchor="end">08.03</text>
-  <line class="dv" x1="20" y1="102" x2="460" y2="102"/>
+  <text class="d"  x="20"     y="82">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지의 과정을 정리합니…</text>
+  <text class="dt" x="540" y="64" text-anchor="end">08.03</text>
+  <line class="dv" x1="20" y1="102" x2="540" y2="102"/>
   <text class="t"  x="20"     y="124">leetcode 스터디 2주차 회고 - 정렬과 DFS로 문제 풀기</text>
-  <text class="d"  x="20"     y="142">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy l…</text>
-  <text class="dt" x="460" y="124" text-anchor="end">07.13</text>
-  <line class="dv" x1="20" y1="162" x2="460" y2="162"/>
+  <text class="d"  x="20"     y="142">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy leetcode 2주…</text>
+  <text class="dt" x="540" y="124" text-anchor="end">07.13</text>
+  <line class="dv" x1="20" y1="162" x2="540" y2="162"/>
   <text class="t"  x="20"     y="184">leetcode 스터디 1주차 회고 - Hash와 DP로 문제 풀기</text>
-  <text class="d"  x="20"     y="202">Contains Duplicate부터 House Robber까지, DaleStudy leetcode 1주…</text>
-  <text class="dt" x="460" y="184" text-anchor="end">07.05</text>
+  <text class="d"  x="20"     y="202">Contains Duplicate부터 House Robber까지, DaleStudy leetcode 1주차에 푼 다섯 문제…</text>
+  <text class="dt" x="540" y="184" text-anchor="end">07.05</text>
 </svg>
