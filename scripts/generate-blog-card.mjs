@@ -26,9 +26,9 @@ function xmlDecode(str) {
 }
 
 function extractTag(tag, xml) {
-  const cdata = new RegExp(`<${tag}[^>]*><!\[CDATA\[([\s\S]*?)\]\]></${tag}>`, 'i').exec(xml);
+  const cdata = new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>`, 'i').exec(xml);
   if (cdata) return xmlDecode(cdata[1].trim());
-  const plain = new RegExp(`<${tag}[^>]*>([\s\S]*?)</${tag}>`, 'i').exec(xml);
+  const plain = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'i').exec(xml);
   return plain ? xmlDecode(plain[1].trim()) : '';
 }
 
