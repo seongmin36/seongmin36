@@ -4,8 +4,8 @@ import { writeFileSync } from 'node:fs';
 const RSS_URL     = 'https://blog.kronglog.dev/rss.xml';
 const OUTPUT_PATH = './recent-posts.svg';
 const MAX_POSTS   = 3;
-const TITLE_MAX   = 44;
-const DESC_MAX    = 58;
+const TITLE_MAX   = 52;
+const DESC_MAX    = 68;
 
 /* ── helpers ──────────────────────────────────────────────── */
 function xmlEscape(str) {
@@ -26,9 +26,9 @@ function xmlDecode(str) {
 }
 
 function extractTag(tag, xml) {
-  const cdata = new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>`, 'i').exec(xml);
+  const cdata = new RegExp(`<${tag}[^>]*><!\[CDATA\[([\s\S]*?)\]\]></${tag}>`, 'i').exec(xml);
   if (cdata) return xmlDecode(cdata[1].trim());
-  const plain = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'i').exec(xml);
+  const plain = new RegExp(`<${tag}[^>]*>([\s\S]*?)</${tag}>`, 'i').exec(xml);
   return plain ? xmlDecode(plain[1].trim()) : '';
 }
 
@@ -64,7 +64,7 @@ function parseItems(xml) {
 
 /* ── SVG builder (C · Minimal) ────────────────────────────── */
 function buildSvg(posts) {
-  const W          = 480;
+  const W          = 560;
   const PAD        = 20;
   const HEADER_H   = 42;   // stripe(3) + icon/logo row + divider
   const POST_H     = 60;
