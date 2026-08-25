@@ -46,15 +46,15 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">2026 오픈소스 컨트리뷰션 아카데미(OSSCA) 참여 후기 및 발대식</text>
-  <text class="d"  x="20"     y="82">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지의 과정을 정리합니…</text>
-  <text class="dt" x="540" y="64" text-anchor="end">08.03</text>
+  <text class="t"  x="20"     y="64">Fedify 오픈소스 첫 기여기 : listen() 테스트 작성부터 머지까지</text>
+  <text class="d"  x="20"     y="82">Fedify의 첫 오픈소스 기여로 맡은 이슈 #881을 통해 메시지 큐 동작 방식을 이해하고, WorkersMessageQ…</text>
+  <text class="dt" x="540" y="64" text-anchor="end">08.25</text>
   <line class="dv" x1="20" y1="102" x2="540" y2="102"/>
-  <text class="t"  x="20"     y="124">leetcode 스터디 2주차 회고 - 정렬과 DFS로 문제 풀기</text>
-  <text class="d"  x="20"     y="142">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy leetcode 2주…</text>
-  <text class="dt" x="540" y="124" text-anchor="end">07.13</text>
+  <text class="t"  x="20"     y="124">2026 오픈소스 컨트리뷰션 아카데미(OSSCA) 참여 후기 및 발대식</text>
+  <text class="d"  x="20"     y="142">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지의 과정을 정리합니…</text>
+  <text class="dt" x="540" y="124" text-anchor="end">08.03</text>
   <line class="dv" x1="20" y1="162" x2="540" y2="162"/>
-  <text class="t"  x="20"     y="184">leetcode 스터디 1주차 회고 - Hash와 DP로 문제 풀기</text>
-  <text class="d"  x="20"     y="202">Contains Duplicate부터 House Robber까지, DaleStudy leetcode 1주차에 푼 다섯 문제…</text>
-  <text class="dt" x="540" y="184" text-anchor="end">07.05</text>
+  <text class="t"  x="20"     y="184">leetcode 스터디 2주차 회고 - 정렬과 DFS로 문제 풀기</text>
+  <text class="d"  x="20"     y="202">Valid Anagram부터 Validate Binary Search Tree까지, DaleStudy leetcode 2주…</text>
+  <text class="dt" x="540" y="184" text-anchor="end">07.13</text>
 </svg>
