@@ -46,15 +46,15 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">PR 알림과 CI 알림, GitHub에서 Discord로 나눠 보내기</text>
-  <text class="d"  x="20"     y="82">GitHub PR 협업 이벤트와 CI 성공/실패 결과를 하나의 채널에 몰아넣지 않고, GitHub Webhook과 GitH…</text>
-  <text class="dt" x="540" y="64" text-anchor="end">09.22</text>
+  <text class="t"  x="20"     y="64">Fedify #951 : failure 벤치마크 Flaky Test와 가상 시계로 고치기</text>
+  <text class="d"  x="20"     y="82">Fedify 벤치마크 failure 시나리오 테스트가 25ms duration과 CI 스케줄링 때문에 Flaky해지는 이유…</text>
+  <text class="dt" x="540" y="64" text-anchor="end">09.29</text>
   <line class="dv" x1="20" y1="102" x2="540" y2="102"/>
-  <text class="t"  x="20"     y="124">Fedify 오픈소스 첫 기여기 : listen() 테스트 작성부터 머지까지</text>
-  <text class="d"  x="20"     y="142">Fedify의 첫 오픈소스 기여로 맡은 이슈 #881을 통해 메시지 큐 동작 방식을 이해하고, WorkersMessageQ…</text>
-  <text class="dt" x="540" y="124" text-anchor="end">08.25</text>
+  <text class="t"  x="20"     y="124">PR 알림과 CI 알림, GitHub에서 Discord로 나눠 보내기</text>
+  <text class="d"  x="20"     y="142">GitHub PR 협업 이벤트와 CI 성공/실패 결과를 하나의 채널에 몰아넣지 않고, GitHub Webhook과 GitH…</text>
+  <text class="dt" x="540" y="124" text-anchor="end">09.22</text>
   <line class="dv" x1="20" y1="162" x2="540" y2="162"/>
-  <text class="t"  x="20"     y="184">2026 오픈소스 컨트리뷰션 아카데미(OSSCA) 참여 후기 및 발대식</text>
-  <text class="d"  x="20"     y="202">오픈소스 기여를 시작하고 싶었던 이유부터 OSSCA 참여형 지원, Fedify 프로젝트 합류와 발대식까지의 과정을 정리합니…</text>
-  <text class="dt" x="540" y="184" text-anchor="end">08.03</text>
+  <text class="t"  x="20"     y="184">Fedify 오픈소스 첫 기여기 : listen() 테스트 작성부터 머지까지</text>
+  <text class="d"  x="20"     y="202">Fedify의 첫 오픈소스 기여로 맡은 이슈 #881을 통해 메시지 큐 동작 방식을 이해하고, WorkersMessageQ…</text>
+  <text class="dt" x="540" y="184" text-anchor="end">08.25</text>
 </svg>
