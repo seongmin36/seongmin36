@@ -46,15 +46,15 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">Fedify #951 : failure 벤치마크 Flaky Test와 가상 시계로 고치기</text>
-  <text class="d"  x="20"     y="82">Fedify 벤치마크 failure 시나리오 테스트가 25ms duration과 CI 스케줄링 때문에 Flaky해지는 이유…</text>
-  <text class="dt" x="540" y="64" text-anchor="end">09.29</text>
+  <text class="t"  x="20"     y="64">Fedify #879 : KV 락 재시도를 스텁이 아닌 상태로 검증하기</text>
+  <text class="d"  x="20"     y="82">Fedify의 @fedify/cfworkers가 Workers KV의 최종적 일관성 때문에 best-effort로만 순서를…</text>
+  <text class="dt" x="540" y="64" text-anchor="end">10.04</text>
   <line class="dv" x1="20" y1="102" x2="540" y2="102"/>
-  <text class="t"  x="20"     y="124">PR 알림과 CI 알림, GitHub에서 Discord로 나눠 보내기</text>
-  <text class="d"  x="20"     y="142">GitHub PR 협업 이벤트와 CI 성공/실패 결과를 하나의 채널에 몰아넣지 않고, GitHub Webhook과 GitH…</text>
-  <text class="dt" x="540" y="124" text-anchor="end">09.22</text>
+  <text class="t"  x="20"     y="124">Fedify #951 : failure 벤치마크 Flaky Test와 가상 시계로 고치기</text>
+  <text class="d"  x="20"     y="142">Fedify 벤치마크 failure 시나리오 테스트가 25ms duration과 CI 스케줄링 때문에 Flaky해지는 이유…</text>
+  <text class="dt" x="540" y="124" text-anchor="end">09.29</text>
   <line class="dv" x1="20" y1="162" x2="540" y2="162"/>
-  <text class="t"  x="20"     y="184">Fedify 오픈소스 첫 기여기 : listen() 테스트 작성부터 머지까지</text>
-  <text class="d"  x="20"     y="202">Fedify의 첫 오픈소스 기여로 맡은 이슈 #881을 통해 메시지 큐 동작 방식을 이해하고, WorkersMessageQ…</text>
-  <text class="dt" x="540" y="184" text-anchor="end">08.25</text>
+  <text class="t"  x="20"     y="184">PR 알림과 CI 알림, GitHub에서 Discord로 나눠 보내기</text>
+  <text class="d"  x="20"     y="202">GitHub PR 협업 이벤트와 CI 성공/실패 결과를 하나의 채널에 몰아넣지 않고, GitHub Webhook과 GitH…</text>
+  <text class="dt" x="540" y="184" text-anchor="end">09.22</text>
 </svg>
