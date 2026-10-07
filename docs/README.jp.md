@@ -1,20 +1,69 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30&height=200&text=SEONGMIN's%20GITHUB&fontSize=50&fontColor=958AFF&fontAlignY=46&stroke=4B3FA0&strokeWidth=2"
-    width="100%" 
-  />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Seongmin%E3%81%AE+GitHub%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E9%96%8B%E7%99%BA%E8%80%85%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E5%8B%89%E5%BC%B7%E4%B8%AD%E3%81%A7%E3%81%99%E3%80%82;%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%82%93%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=3000" alt="README Typing SVG">
+## Hi there 👋, I'm Krong!
 
-  <br> 
-  
+**こんにちは、開発者のチョ・ソンミン（Seongmin Jo）です。**
+
+初めて触れる技術を前にすると、負担よりも好奇心が湧いてきます。 <br>
+見慣れない API やアーキテクチャを公式ドキュメントと実際のコードで掘り下げ、その知見をブログとコミットの記録として残しています。 <br>
+オープンソースにも継続的にコントリビュートしており、Flaky Test のような厄介な問題も原因を突き止めて解決します。<br>
+チームプロジェクトではリーダーを務め、一人で先走るのではなく、チーム全員が最後までやり遂げられるようにしています。
+
+<br>
+
+#### 🎓 Education
+- **西京大学（Seokyeong University）**
+  - コンピュータ工学科 在学中 (`2021.03 ~ `)
+ 
+#### 🚀 Experience & Activity
+- **OSSCA (Open Source SW Contribution Academy)**
+  - Fedify（ActivityPub）パートのメンター  (`2026.06 ~ `)
+
+- **UMC (University MakeUs Challenge)**
+  - 8th Web Developer Challenger (`2025.03 ~ 2025.08`)
+  - 9th Web Developer Department Lead (`2025.09 ~ 2026.02`)
+ 
+- **kt cloud TECH-UP** 
+  - Frontend 第2期 教育課程 修了 (`2026.03 ~ 2026.10`)
+
+<br>
+
+#### 🌱 OPEN SOURCE
+
+一度きりの貢献ではなく **継続的な参加** を目標に、コントリビュートを続けています。
+
+- <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify ロゴ" /></a>&nbsp;&nbsp;<a
+  href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `)
+    - ランタイムごとの Flaky Test の原因調査と修正 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
+    - Cloudflare Workers 環境における KV lock・message 処理の挙動分析とテスト強化 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
+  href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
+    - コントリビュートの過程は記事として残しています → <a href="https://blog.kronglog.dev/blogs" target="_blank">貢献の記録を見る</a>
+
+<br>
+
+#### 📝 RECENT POSTS
+> 問題解決の中で考えたことや開発の経験を、継続的に記録しています。
+
+[![Recent Posts](../recent-posts.svg)](https://blog.kronglog.dev/blogs)
+
+<br>
+
+#### 🔗 CONTACT
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/krongSungmin" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo" />
+  </a>
+  <a href="https://discordapp.com/users/Das3625" target="_blank" title="Discord">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="32" alt="discord logo" />
+  </a>
+  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Gmail">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="32" alt="gmail logo" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="../README.md">English</a>
+  <a href="./README.en.md">English</a>
   ·
   <a href="./README.ko.md">한국어</a>
   ·
@@ -22,122 +71,3 @@
   ·
   <a href="./README.cn.md">繁體中文</a>
 </p>
-
-<br>
-
-<h1 align="left">🧑‍💻 自己紹介.</h1>
-
-> ### 情報
-
-|    期間    | 区分 |                           詳細                           |                  リンク                   |
-| :--------: | :--: | :------------------------------------------------------: | :---------------------------------------: |
-| 2021.03.02 ~ | `UNIV` | 西京大学（Seokyeong University）コンピュータ工学専攻（3年） | [skuniv](https://www.skuniv.ac.kr/main) |
-| 2025.03.14 ~ 2025.08.26 | `CLUB` | UMC 8th Web Developer Challenger | [umc.makeus.in](https://umc.makeus.in/) |
-| 2025.09.02 ~ 2025.02.20 | `CLUB` | UMC 9th Web Developer Campus Web Department Lead | [umc.makeus.in](https://umc.makeus.in/) |
-
-> ### プロジェクト
-
-|         期間          |            名称            |                            リポジトリ                            |
-| :-------------------: | :------------------------: | :----------------------------------------------------------------: |
-| 2025.07.09 ~ 2025.07.11 |          `HobbySeeker`       |  [HobbySeeker](https://github.com/seongmin36/HobbySeeker.git)   |
-| 2025.06.30 ~ 2025.08.23 |         `CHICCHIC`         |     [CHICCHIC](https://github.com/UMC-CHICCHIC/FE.git)     |
-| 2025.09.18 ~ 2025.09.19 |           `Duri`           |   [Duri](https://github.com/Hackathon-SKU/frontend.git)    |
-| 2025.09.21 ~ 2025.12.14 |           `Re:Fit`           |   [Re:Fit](https://github.com/refit-lab/refit-lab-fe)    |
-| 2025.12.28 ~ 2026.02.20 |           `Travlocks`           |   [Travlocks](https://github.com/Travlocks/travlocks-web)    |
-
-<br>
-
-## 🚀 プロジェクト
-<!-- 칙칙 -->
-<details>
-<summary>CHICCHIC</summary>
-<img width="776" height="545" alt="스크린샷 2025-09-07 오후 10 37 09" src="https://github.com/user-attachments/assets/2df318c8-f8a1-499c-bf5f-da73a082b143" />
-</details>
-
-<!-- 취찾사 -->
-<details>
-<summary>HobbySeeker</summary>
-<img width="1259" height="925" alt="스크린샷 2025-09-07 오후 10 15 31" src="https://github.com/user-attachments/assets/21ac6310-118d-4b16-8084-3a5313d655cd" />
-</details>
-
-<!-- 두리 -->
-<details>
-<summary>Duri</summary>
-<img width="511" height="963" alt="스크린샷 2025-11-14 오전 12 38 24" src="https://github.com/user-attachments/assets/b7fbaab0-5cd9-43a9-85e9-c845583a45c0" />
-</details>
-
-<!-- Re:Fit -->
-<details>
-<summary>Re:Fit</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32efca48-9019-4242-a721-d3387e9fb395" />
-</details>
-
-<!-- Travlocks -->
-<details>
-<summary>Travlocks</summary>
-
-</details>
-
-</details>
-
-<br>
-
-## 🛠 LANGS & TOOLS
-
-<div align="left">
-  <img width="50" title="React" alt="React Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/react-logo.svg"/>
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" alt="tailwindcss logo" />
-  <br><br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="40" alt="astro logo" />
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-</div>
-
-
-<br><br>
-
-## 🔥 STATS
-
-<p align="left">
-    <img src="https://github-readme-stats-ten-smoky.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph" />
-</p>
-
-[![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seongmin36&theme=react-dark)](https://github.com/seongmin36/github-readme-activity-graph)
-
-<br><br>
-
-<h1 align=left>🔗 連絡先.</h1>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/krongSungmin" target="_blank" title="LinkedIn - krongsungmin">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discordapp.com/users/Das3625" target="_blank" title="Discord - Das3625">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Gmail - whtjdals3625@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Notion - whtjdals3625@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
-  </a>
-</p>
-
-
-</div>
