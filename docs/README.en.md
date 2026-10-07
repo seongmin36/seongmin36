@@ -2,10 +2,10 @@
 
 **Hello, I'm Seongmin Jo, a developer.**
 
-When I face an unfamiliar technology, I feel curiosity rather than pressure. <br>
+When I encounter a new technology, I approach it with curiosity rather than pressure. <br>
 I dig into new APIs and architectures through official docs and real code, and leave those insights behind in my blog and commits. <br>
-I contribute to open source consistently, tracking down and fixing tricky problems like flaky tests.<br>
-In team projects, I take the lead — not to run ahead alone, but to make sure the whole team reaches the finish line together.
+I also contribute to open source consistently, tracking down and fixing tricky problems like flaky tests. <br>
+In team projects, I take the lead — not to run ahead alone, but to guide the whole team to the finish line together.
 
 <br>
 
