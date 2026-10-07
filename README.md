@@ -1,14 +1,63 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30&height=200&text=SEONGMIN's%20GITHUB&fontSize=50&fontColor=958AFF&fontAlignY=46&stroke=4B3FA0&strokeWidth=2"
-    width="100%" 
-  />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seongmin%27s+GitHub!;Studying+to+become+a+developer.;Please+enjoy+my+repos!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=3000" alt="README Typing SVG">
+## Hi there 👋, I'm Krong!
 
-  <br> 
-  
+**안녕하세요, 개발자 조성민입니다.**
+
+처음 보는 기술 앞에서 드는 감정은 부담보다 흥미를 가집니다. <br>
+낯선 API와 아키텍처를 공식 문서와 실제 코드로 파고들며, 그 인사이트를 블로그와 커밋 흔적으로 남깁니다. <br>
+이에 오픈소스를 꾸준히 기여하며, Flaky Test 같은 까다로운 문제도 원인을 찾아 해결합니다.<br>
+팀 프로젝트에서는 리딩을 맡아 혼자 앞서 가기보다 팀 전체가 함께 끝까지 가도록 만듭니다.
+
+<br>
+
+#### 🎓 Education
+- **서경대학교 (Seokyeong University)**
+  - 컴퓨터공학과 재학 (`2021.03 ~ `)
+ 
+#### 🚀 Experience & Activity
+- **OSSCA (Open Source SW Contribution Academy)**
+  - Fedify(ActivityPub) 파트 멘토 활동  (`2026.06 ~ `)
+
+- **UMC (University MakeUs Challenge)**
+  - 8th Web Developer Challenger (`2025.03 ~ 2025.08`)
+  - 9th Web Developer Department Lead (`2025.09 ~ 2026.02`)
+ 
+- **kt cloud TECH-UP** 
+  - Frontend 2기 교육 과정 수료 (`2026.03 ~ 2026.10`)
+
+<br>
+
+#### 🌱 OPEN SOURCE
+
+일회성 기여가 아닌 **꾸준한 참여**를 목표로, 기여활동을 이어나가고 있습니다.
+
+- <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify 로고" /></a>&nbsp;&nbsp;<a
+  href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `)
+    - 런타임별 Flaky Test 원인 추적 및 해결 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
+    - Cloudflare Workers 환경의 KV lock · message 처리 동작 분석 및 테스트 보강 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
+  href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
+    - 기여 과정은 글로 남기고 있습니다 → <a href="https://blog.kronglog.dev/blogs" target="_blank">기여 기록 보러가기</a>
+
+<br>
+
+#### 📝 RECENT POSTS
+> 문제를 해결하며 겪은 생각과 개발 경험을 꾸준히 기록하고 있습니다.
+
+[![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
+
+<br>
+
+#### 🔗 CONTACT
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/krongSungmin" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo" />
+  </a>
+  <a href="https://discordapp.com/users/Das3625" target="_blank" title="Discord">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="32" alt="discord logo" />
+  </a>
+  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Gmail">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="32" alt="gmail logo" />
+  </a>
 </p>
 
 <br>
@@ -22,68 +71,3 @@
   ·
   <a href="./docs/README.cn.md">繁體中文</a>
 </p>
-
-<br>
-
-## 📝 RECENT POSTS
-
-[![Recent Posts](./recent-posts.svg)](https://blog.kronglog.dev/blogs)
-
-<h1 align="left">🧑‍💻 ABOUT ME.</h1>
-
-|    Period    | Career |                           Details                           |                  Link                   |
-| :----------: | :----: | :---------------------------------------------------------: | :-------------------------------------: |
-| 2021.03.02 ~ | `UNIV` | Seokyeong University, Computer Engineering Major (3rd year) | [skuniv](https://www.skuniv.ac.kr/main) |
-| 2025.03.14 ~ 2025.08.26 | `CLUB` | UMC 8th Web Developer Challenger | [umc.makeus.in](https://umc.makeus.in/) |
-| 2025.09.02 ~ 2025.02.20 | `CLUB` | UMC 9th Web Developer Campus Web Department Lead | [umc.makeus.in](https://umc.makeus.in/) |
-| 2026.03.16 ~ 2026.10.07 | `CAMP` | kt cloud TECH-UP frontend 2nd | [kt cloud TECH-UP](https://ktcloud-techup.com/frontend/) |
-| 2026.06.29 ~ | `ACADEMY` | OSSCA(Open Source SW Contribution Academy): Fedify(ActivityPub) | [Fedify](https://github.com/fedify-dev) |
-
-<br>
-
-## 🛠 LANGS & TOOLS
-
-<div align="left">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="40" alt="astro logo" />
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-</div>
-
-
-<br><br>
-
-## 🔥 STATS
-
-<p align="left">
-    <img src="https://github-readme-stats-ten-smoky.vercel.app/api/top-langs?username=seongmin36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-stats-ten-smoky.vercel.app/api?username=seongmin36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph" />
-</p>
-
-<br><br>
-
-<h1 align=left>🔗 CONTACT.</h1>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/krongSungmin" target="_blank" title="LinkedIn - krongsungmin">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discordapp.com/users/Das3625" target="_blank" title="Discord - Das3625">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Gmail - whtjdals3625@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="mailto:whtjdals3625@gmail.com" target="_blank" title="Notion - whtjdals3625@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
-  </a>
-</p>
-
-
-</div>
