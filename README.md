@@ -15,7 +15,7 @@
  
 #### 🚀 Experience & Activity
 - **OSSCA (Open Source SW Contribution Academy)**
-  - Fedify(ActivityPub) 파트 멘토 활동  (`2026.06 ~ `)
+  - Fedify(ActivityPub) 파트 멘티 활동  (`2026.06 ~ `)
 
 - **UMC (University MakeUs Challenge)**
   - 8th Web Developer Challenger (`2025.03 ~ 2025.08`)
