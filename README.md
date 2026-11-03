@@ -35,7 +35,7 @@
     - 런타임별 Flaky Test 원인 추적 및 해결 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - Cloudflare Workers 환경의 KV lock · message 처리 동작 분석 및 테스트 보강 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
-    - 기여 과정은 글로 남기고 있습니다 → <a href="https://blog.kronglog.dev/blogs" target="_blank">기여 기록 보러가기</a>
+    - 기여 과정은 글로 남기고 있습니다 → <a href="https://blog.kronglog.dev/blogs/?tag=Fedify" target="_blank">기여 기록 보러가기</a>
 
 <br>
 
