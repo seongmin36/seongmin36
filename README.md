@@ -29,13 +29,13 @@
 #### 🌱 OPEN SOURCE
 
 일회성 기여가 아닌 **꾸준한 참여**를 목표로, 기여활동을 이어나가고 있습니다.
+> 기여 과정은 글로 남기고 있습니다 → <a href="https://blog.kronglog.dev/blogs/?tag=Fedify" target="_blank">기여 기록 보러가기</a>
+
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify 로고" /></a>&nbsp;&nbsp;<a
   href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `)
     - 런타임별 Flaky Test 원인 추적 및 해결 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - Cloudflare Workers 환경의 KV lock · message 처리 동작 분석 및 테스트 보강 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
-
-(기여 과정은 글로 남기고 있습니다 → <a href="https://blog.kronglog.dev/blogs/?tag=Fedify" target="_blank">기여 기록 보러가기</a>)
 
 <br>
 
