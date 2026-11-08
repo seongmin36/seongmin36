@@ -15,7 +15,7 @@
  
 #### 🚀 Experience & Activity
 - **OSSCA (Open Source SW Contribution Academy)**
-  - Fedify（ActivityPub）パートのメンター  (`2026.06 ~ `)
+  - Fedify（ActivityPub）パートのメンティー  (`2026.06 ~ `)
 
 - **UMC (University MakeUs Challenge)**
   - 8th Web Developer Challenger (`2025.03 ~ 2025.08`)
@@ -30,6 +30,7 @@
 #### 🌱 OPEN SOURCE
 
 一度きりの貢献ではなく **継続的な参加** を目標に、コントリビュートを続けています。
+> コントリビュートの過程は記事として残しています → <a href="https://blog.kronglog.dev/blogs/?tag=Fedify" target="_blank">貢献の記録を見る</a>
 
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify ロゴ" /></a>&nbsp;&nbsp;<a
   href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `) · PR 4件マージ
@@ -37,7 +38,6 @@
     - Cloudflare Workers 環境における KV lock・message 処理の挙動分析とテスト強化 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
     - Cloudflare Workers のメッセージキュー重複テストの統合と lock ライフサイクルテストの追加 (<a href="https://github.com/fedify-dev/fedify/pull/1321" target="_blank">#1321</a>)
-    - コントリビュートの過程は記事として残しています → <a href="https://blog.kronglog.dev/blogs" target="_blank">貢献の記録を見る</a>
 
 <br>
 
