@@ -33,7 +33,7 @@ Aiming for **consistent participation** rather than one-off contributions, I kee
 
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify logo" /></a>&nbsp;&nbsp;<a
   href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `) · 4 PRs merged
-    - Traced and fixed the root causes of runtime-specific flaky tests (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
+    - Fixed a flaky test that intermittently failed in CI due to real-time dependence by switching it to an injected Clock (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - Analyzed KV lock and message handling behavior on Cloudflare Workers and strengthened the tests (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
     - Consolidated duplicate message queue tests on Cloudflare Workers and added a lock lifecycle test (<a href="https://github.com/fedify-dev/fedify/pull/1321" target="_blank">#1321</a>)

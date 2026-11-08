@@ -33,7 +33,7 @@
 
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify ロゴ" /></a>&nbsp;&nbsp;<a
   href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `) · PR 4件マージ
-    - ランタイムごとの Flaky Test の原因調査と修正 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
+    - 実時間に依存して CI で断続的に失敗していたテストを Clock 注入方式に切り替え、Flaky を解消 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - Cloudflare Workers 環境における KV lock・message 処理の挙動分析とテスト強化 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
     - Cloudflare Workers のメッセージキュー重複テストの統合と lock ライフサイクルテストの追加 (<a href="https://github.com/fedify-dev/fedify/pull/1321" target="_blank">#1321</a>)

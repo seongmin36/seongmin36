@@ -34,7 +34,7 @@
 
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify 로고" /></a>&nbsp;&nbsp;<a
   href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `) · PR 4건 머지
-    - 런타임별 Flaky Test 원인 추적 및 해결 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
+    - 실제 시간에 의존해 CI에서 간헐적으로 실패하던 테스트를 Clock 주입 방식으로 바꿔 Flaky 해결 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - Cloudflare Workers 환경의 KV lock · message 처리 동작 분석 및 테스트 보강 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
     - Cloudflare Workers 메시지 큐 중복 테스트 통합 및 lock 수명주기 테스트 추가 (<a href="https://github.com/fedify-dev/fedify/pull/1321" target="_blank">#1321</a>)
