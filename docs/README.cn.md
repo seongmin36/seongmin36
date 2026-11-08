@@ -23,6 +23,7 @@
  
 - **kt cloud TECH-UP** 
   - 完成 Frontend 第 2 期培訓課程 (`2026.03 ~ 2026.10`)
+    - 整合專案（22 人）前端組組長
 
 <br>
 
@@ -31,10 +32,11 @@
 以 **持續參與** 而非一次性貢獻為目標，不斷累積貢獻。
 
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify 標誌" /></a>&nbsp;&nbsp;<a
-  href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `)
+  href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `) · 已合併 4 個 PR
     - 追查並修正各執行環境下 Flaky Test 的根本原因 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - 分析 Cloudflare Workers 環境中 KV lock 與 message 處理的行為，並補強測試 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
+    - 整合 Cloudflare Workers 訊息佇列的重複測試，並新增 lock 生命週期測試 (<a href="https://github.com/fedify-dev/fedify/pull/1321" target="_blank">#1321</a>)
     - 我將貢獻過程寫成文章記錄下來 → <a href="https://blog.kronglog.dev/blogs" target="_blank">查看貢獻紀錄</a>
 
 <br>

@@ -23,6 +23,7 @@
  
 - **kt cloud TECH-UP** 
   - Frontend 2기 교육 과정 수료 (`2026.03 ~ 2026.10`)
+    - 통합 프로젝트(22명) 프론트엔드 파트 리더
 
 <br>
 
@@ -32,10 +33,11 @@
 > 기여 과정은 글로 남기고 있습니다 → <a href="https://blog.kronglog.dev/blogs/?tag=Fedify" target="_blank">기여 기록 보러가기</a>
 
 - <a href="https://github.com/fedify-dev/fedify" target="_blank"><img src="https://fedify.dev/logo.svg" width="20" height="20" align="top" alt="Fedify 로고" /></a>&nbsp;&nbsp;<a
-  href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `)
+  href="https://github.com/fedify-dev/fedify" target="_blank"><strong>fedify-dev/fedify</strong></a> — ActivityPub framework for TypeScript (`2026.06 ~ `) · PR 4건 머지
     - 런타임별 Flaky Test 원인 추적 및 해결 (<a href="https://github.com/fedify-dev/fedify/pull/1085" target="_blank">#1085</a>)
     - Cloudflare Workers 환경의 KV lock · message 처리 동작 분석 및 테스트 보강 (<a href="https://github.com/fedify-dev/fedify/pull/1019" target="_blank">#1019</a>, <a
   href="https://github.com/fedify-dev/fedify/pull/1001" target="_blank">#1001</a>)
+    - Cloudflare Workers 메시지 큐 중복 테스트 통합 및 lock 수명주기 테스트 추가 (<a href="https://github.com/fedify-dev/fedify/pull/1321" target="_blank">#1321</a>)
 
 <br>
 
