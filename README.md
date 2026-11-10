@@ -11,7 +11,7 @@
 
 #### 🎓 Education
 - **서경대학교 (Seokyeong University)**
-  - 컴퓨터공학과 재학 (`2021.03 ~ `)
+  - 컴퓨터공학과 3학년 2학기 수료 후 2026년 휴학 중, 2028.02 졸업 예정 (`2021.03 ~ `)
  
 #### 🚀 Experience & Activity
 - **OSSCA (Open Source SW Contribution Academy)**

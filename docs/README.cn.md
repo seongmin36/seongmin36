@@ -11,7 +11,7 @@
 
 #### 🎓 Education
 - **西京大學（Seokyeong University）**
-  - 電腦工程學系 在學中 (`2021.03 ~ `)
+  - 電腦工程學系 修畢三年級第二學期後，2026 年休學中，預計 2028.02 畢業 (`2021.03 ~ `)
  
 #### 🚀 Experience & Activity
 - **OSSCA (Open Source SW Contribution Academy)**

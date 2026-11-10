@@ -11,7 +11,7 @@ In team projects, I take the lead — not to run ahead alone, but to guide the w
 
 #### 🎓 Education
 - **Seokyeong University**
-  - B.S. in Computer Engineering, enrolled (`2021.03 ~ `)
+  - B.S. in Computer Engineering — completed the fall semester of 3rd year, on leave of absence in 2026, expected to graduate 2028.02 (`2021.03 ~ `)
  
 #### 🚀 Experience & Activity
 - **OSSCA (Open Source SW Contribution Academy)**
