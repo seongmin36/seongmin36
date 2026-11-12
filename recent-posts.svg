@@ -46,15 +46,15 @@
   <!-- posts -->
   
   
-  <text class="t"  x="20"     y="64">useSearchParams() 훅 없이 Query Parameter 구현하기</text>
-  <text class="d"  x="20"     y="82">정적 블로그의 글 목록 필터를 React 없이 바닐라 JS로 URL과 동기화한 구조와, 새로고침 시 칩이 깜빡이던 문제를 …</text>
-  <text class="dt" x="540" y="64" text-anchor="end">11.04</text>
+  <text class="t"  x="20"     y="64">프로젝트 하나에 배포 용량이 꽉찼다고? — Vercel 배포 용량 확보하기</text>
+  <text class="d"  x="20"     y="82">Hobby 플랜의 Deployment Storage 10GB를 정적 블로그 하나가 다 채운 원인을 찾고, 보관 중인 배포 …</text>
+  <text class="dt" x="540" y="64" text-anchor="end">11.12</text>
   <line class="dv" x1="20" y1="102" x2="540" y2="102"/>
-  <text class="t"  x="20"     y="124">Fedify #879 : KV 락 재시도를 스텁이 아닌 상태로 검증하기</text>
-  <text class="d"  x="20"     y="142">Fedify의 @fedify/cfworkers가 Workers KV의 최종적 일관성 때문에 best-effort로만 순서를…</text>
-  <text class="dt" x="540" y="124" text-anchor="end">10.04</text>
+  <text class="t"  x="20"     y="124">useSearchParams() 훅 없이 Query Parameter 구현하기</text>
+  <text class="d"  x="20"     y="142">정적 블로그의 글 목록 필터를 React 없이 바닐라 JS로 URL과 동기화한 구조와, 새로고침 시 칩이 깜빡이던 문제를 …</text>
+  <text class="dt" x="540" y="124" text-anchor="end">11.04</text>
   <line class="dv" x1="20" y1="162" x2="540" y2="162"/>
-  <text class="t"  x="20"     y="184">Fedify #951 : failure 벤치마크 Flaky Test와 가상 시계로 고치기</text>
-  <text class="d"  x="20"     y="202">Fedify 벤치마크 failure 시나리오 테스트가 25ms duration과 CI 스케줄링 때문에 Flaky해지는 이유…</text>
-  <text class="dt" x="540" y="184" text-anchor="end">09.29</text>
+  <text class="t"  x="20"     y="184">Fedify #879 : KV 락 재시도를 스텁이 아닌 상태로 검증하기</text>
+  <text class="d"  x="20"     y="202">Fedify의 @fedify/cfworkers가 Workers KV의 최종적 일관성 때문에 best-effort로만 순서를…</text>
+  <text class="dt" x="540" y="184" text-anchor="end">10.04</text>
 </svg>
